@@ -1,4 +1,5 @@
 console.log("%cJS Lab Connected — Start completing the TODOs!", "font-weight:bold; font-size:14px");
+console.log("%cJS Lab Connected — Start completing the TODOs!", "font-weight:bold; font-size:14px");
 
 // ==========================
 // TODO-2: SYNTAX & VARIABLES
